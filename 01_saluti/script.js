@@ -42,17 +42,6 @@ console.log(saluto1);
 
 
 //Risultato atteso se si passa 'Mario': // ciao Mario
-
-
-
-
-
-
-
-
-
-
-/*
 let risultato1=isMario("Peppe"); //false
 let risultato2=isMario("Mario");//true
 console.log(risultato1);
@@ -70,4 +59,3 @@ function isMario(nome){
 
 }
 
-*/
