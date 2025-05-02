@@ -19,7 +19,7 @@ function dayTime(string){
     if (hours <13){
         console.log (`Buongiorno ${string}`);
     }
-    else if (hours <7){
+    else if (hours <17){
         console.log (`Buon pomeriggio ${string}`);
     }
     else {
@@ -40,7 +40,7 @@ const dayTime = (string) =>{
     if (hours <13){
         console.log (`Buongiorno ${string}`);
     }
-    else if (hours <7){
+    else if (hours <17){
         console.log (`Buon pomeriggio ${string}`);
     }
     else {
