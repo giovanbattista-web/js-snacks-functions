@@ -17,9 +17,10 @@ function restituisciSomma(a,b){ //input: a e b (i 2 numeri da sommare )
 
 /* Scrivi una funzione che accetti una stringa contenente un nome e restituisca un saluto seguito dal nome fornito (es. "Ciao [nome]") */
 const userName = 'Mario';
+
 // Dichiara la funzione qui.
-function hello(name){
-    return `Ciao ${name}`;
+function hello(fullName){
+    return `Ciao ${fullName}`;
 }
 
 // Invoca la funzione qui e stampa il risultato in console
